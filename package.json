@@ -1,0 +1,15 @@
+{
+  "name": "ebac-cypress-samples",
+  "version": "1.0.0",
+  "description": "Default Cypress Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
